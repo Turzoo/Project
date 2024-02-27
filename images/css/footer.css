@@ -1,0 +1,17 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #34495e;
+    text-align: center;
+}
+
+a {
+    text-decoration: underline;
+    color: white;
+}
+
+.p {
+    color: white;
+}
